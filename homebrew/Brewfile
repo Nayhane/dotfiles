@@ -13,8 +13,6 @@ tap "homebrew/cask-fonts"
 # install cask formulae:
 # install custom powerline fonts for dev and terminal
 cask "font-menlo-for-powerline"
-cask "font-fira-mono-for-powerline"
-cask "font-source-code-pro-for-powerline"
 cask "font-powerline-symbols"
 cask "font-fira-code"
 cask "font-awesome-terminal-fonts"
